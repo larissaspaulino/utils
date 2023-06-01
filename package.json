@@ -1,0 +1,8 @@
+{
+  "name": "@larissaspaulino/utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/larissaspaulino/utils",
+  "author": "Larissa Paulino <larissaspaulino@gmail.com>",
+  "license": "MIT"
+}
